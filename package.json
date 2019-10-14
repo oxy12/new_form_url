@@ -14,5 +14,9 @@
     "node",
     "thejsway"
   ],
-  "author": "Baptiste Pesquet"
+  "author": "Baptiste Pesquet",
+  "engines": {
+    "node": "10.16.3"
+   }
+
 }
