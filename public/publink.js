@@ -1,4 +1,4 @@
-const serverUrl = 'http://localhost:3000';
+const serverUrl = 'https://intense-springs-04211.herokuapp.com';
 
 const contentElement = document.getElementById('content');
 //Create and return a DOM element showing a link
