@@ -16,7 +16,6 @@
   ],
   "author": "Baptiste Pesquet",
   "engines": {
-    "node": "10.16.3"
-   }
-
+    "node": "11.15.0"
+  }
 }
